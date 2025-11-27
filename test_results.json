@@ -1,0 +1,122 @@
+[
+  {
+    "timestamp": "2025-11-27 05:19:17",
+    "test": "API Health Check",
+    "status": "PASS",
+    "details": "Primitive binary: /home/ubuntu/go/bin/primitive"
+  },
+  {
+    "timestamp": "2025-11-27 05:19:17",
+    "test": "API Root Endpoint",
+    "status": "PASS",
+    "details": "Version: 1.0.0"
+  },
+  {
+    "timestamp": "2025-11-27 05:19:18",
+    "test": "Shape Type: triangle",
+    "status": "PASS",
+    "details": "Generated 5 shapes"
+  },
+  {
+    "timestamp": "2025-11-27 05:19:19",
+    "test": "Shape Type: rectangle",
+    "status": "PASS",
+    "details": "Generated 5 shapes"
+  },
+  {
+    "timestamp": "2025-11-27 05:19:19",
+    "test": "Shape Type: ellipse",
+    "status": "PASS",
+    "details": "Generated 5 shapes"
+  },
+  {
+    "timestamp": "2025-11-27 05:19:20",
+    "test": "Shape Type: circle",
+    "status": "PASS",
+    "details": "Generated 5 shapes"
+  },
+  {
+    "timestamp": "2025-11-27 05:19:21",
+    "test": "Shape Type: rotated_rectangle",
+    "status": "PASS",
+    "details": "Generated 5 shapes"
+  },
+  {
+    "timestamp": "2025-11-27 05:19:23",
+    "test": "Shape Type: rotated_ellipse",
+    "status": "PASS",
+    "details": "Generated 5 shapes"
+  },
+  {
+    "timestamp": "2025-11-27 05:19:23",
+    "test": "Shape Type: line",
+    "status": "PASS",
+    "details": "Generated 5 shapes"
+  },
+  {
+    "timestamp": "2025-11-27 05:19:23",
+    "test": "Shape Type: quadratic_bezier",
+    "status": "PASS",
+    "details": "Generated 5 shapes"
+  },
+  {
+    "timestamp": "2025-11-27 05:19:24",
+    "test": "Output Format: json",
+    "status": "PASS",
+    "details": "Response size: 482 bytes"
+  },
+  {
+    "timestamp": "2025-11-27 05:19:25",
+    "test": "Output Format: svg",
+    "status": "PASS",
+    "details": "Response size: 454 bytes"
+  },
+  {
+    "timestamp": "2025-11-27 05:19:25",
+    "test": "Output Format: png",
+    "status": "PASS",
+    "details": "Response size: 758 bytes"
+  },
+  {
+    "timestamp": "2025-11-27 05:19:26",
+    "test": "Parameter: opacity=200",
+    "status": "PASS",
+    "details": "Value correctly set"
+  },
+  {
+    "timestamp": "2025-11-27 05:19:28",
+    "test": "Parameter: shape_count=10",
+    "status": "PASS",
+    "details": "Value correctly set"
+  },
+  {
+    "timestamp": "2025-11-27 05:19:31",
+    "test": "Parameter: background_color=#000000",
+    "status": "PASS",
+    "details": "Parameter accepted"
+  },
+  {
+    "timestamp": "2025-11-27 05:19:31",
+    "test": "Image Resizing",
+    "status": "PASS",
+    "details": "Canvas size: [200, 200]"
+  },
+  {
+    "timestamp": "2025-11-27 05:19:32",
+    "test": "Shape Type: triangle",
+    "status": "PASS",
+    "details": "Generated 3 shapes"
+  },
+  {
+    "timestamp": "2025-11-27 05:19:32",
+    "test": "Shape Type: triangle",
+    "status": "PASS",
+    "details": "Generated 5 shapes"
+  },
+  {
+    "timestamp": "2025-11-27 05:19:33",
+    "test": "Shape Type: triangle",
+    "status": "PASS",
+    "details": "Generated 5 shapes"
+  }
+]

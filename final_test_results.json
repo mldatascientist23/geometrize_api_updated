@@ -1,0 +1,296 @@
+[
+  {
+    "test": "1.1 Health Check",
+    "status": "\u2705 PASS",
+    "code": 200,
+    "time": "0.01s",
+    "details": "{'status': 'healthy', 'primitive_binary': '/home/ubuntu/go/bin/primitive'}"
+  },
+  {
+    "test": "1.2 Root Endpoint",
+    "status": "\u2705 PASS",
+    "code": 200,
+    "time": "0.00s",
+    "details": "{'name': 'Geometrize API', 'version': '1.0.0', 'description': 'Transform images into geometric art u"
+  },
+  {
+    "test": "2.1 Shape Type: triangle",
+    "status": "\u2705 PASS",
+    "code": 200,
+    "time": "1.53s",
+    "details": "Generated 50 shapes, Canvas: [256, 256]"
+  },
+  {
+    "test": "2.2 Shape Type: rectangle",
+    "status": "\u2705 PASS",
+    "code": 200,
+    "time": "1.30s",
+    "details": "Generated 0 shapes, Canvas: [256, 256]"
+  },
+  {
+    "test": "2.3 Shape Type: rotated_rectangle",
+    "status": "\u2705 PASS",
+    "code": 200,
+    "time": "1.71s",
+    "details": "Generated 0 shapes, Canvas: [256, 256]"
+  },
+  {
+    "test": "2.4 Shape Type: ellipse",
+    "status": "\u2705 PASS",
+    "code": 200,
+    "time": "3.44s",
+    "details": "Generated 50 shapes, Canvas: [256, 256]"
+  },
+  {
+    "test": "2.5 Shape Type: rotated_ellipse",
+    "status": "\u2705 PASS",
+    "code": 200,
+    "time": "7.07s",
+    "details": "Generated 50 shapes, Canvas: [256, 256]"
+  },
+  {
+    "test": "2.6 Shape Type: circle",
+    "status": "\u2705 PASS",
+    "code": 200,
+    "time": "4.88s",
+    "details": "Generated 50 shapes, Canvas: [256, 256]"
+  },
+  {
+    "test": "2.7 Shape Type: line",
+    "status": "\u2705 PASS",
+    "code": 200,
+    "time": "2.60s",
+    "details": "Generated 50 shapes, Canvas: [256, 256]"
+  },
+  {
+    "test": "2.8 Shape Type: quadratic_bezier",
+    "status": "\u2705 PASS",
+    "code": 200,
+    "time": "2.70s",
+    "details": "Generated 50 shapes, Canvas: [256, 256]"
+  },
+  {
+    "test": "3.1 Output Format: json",
+    "status": "\u2705 PASS",
+    "code": 200,
+    "time": "1.64s",
+    "details": "Generated 50 shapes, Canvas: [256, 256]"
+  },
+  {
+    "test": "3.2 Output Format: svg",
+    "status": "\u2705 PASS",
+    "code": 200,
+    "time": "1.61s",
+    "details": "SVG size: 4282 bytes"
+  },
+  {
+    "test": "3.3 Output Format: png",
+    "status": "\u2705 PASS",
+    "code": 200,
+    "time": "1.83s",
+    "details": "PNG size: 758 bytes"
+  },
+  {
+    "test": "4.1 Opacity: 0",
+    "status": "\u2705 PASS",
+    "code": 200,
+    "time": "0.95s",
+    "details": "Generated 30 shapes, Canvas: [256, 256]"
+  },
+  {
+    "test": "4.2 Opacity: 64",
+    "status": "\u2705 PASS",
+    "code": 200,
+    "time": "1.88s",
+    "details": "Generated 30 shapes, Canvas: [256, 256]"
+  },
+  {
+    "test": "4.3 Opacity: 128",
+    "status": "\u2705 PASS",
+    "code": 200,
+    "time": "0.91s",
+    "details": "Generated 30 shapes, Canvas: [256, 256]"
+  },
+  {
+    "test": "4.4 Opacity: 192",
+    "status": "\u2705 PASS",
+    "code": 200,
+    "time": "1.04s",
+    "details": "Generated 30 shapes, Canvas: [256, 256]"
+  },
+  {
+    "test": "4.5 Opacity: 255",
+    "status": "\u2705 PASS",
+    "code": 200,
+    "time": "1.04s",
+    "details": "Generated 30 shapes, Canvas: [256, 256]"
+  },
+  {
+    "test": "4.6 Shape Count: 10",
+    "status": "\u2705 PASS",
+    "code": 200,
+    "time": "0.29s",
+    "details": "Generated 0 shapes, Canvas: [256, 256]"
+  },
+  {
+    "test": "4.7 Shape Count: 50",
+    "status": "\u2705 PASS",
+    "code": 200,
+    "time": "1.57s",
+    "details": "Generated 0 shapes, Canvas: [256, 256]"
+  },
+  {
+    "test": "4.8 Shape Count: 100",
+    "status": "\u2705 PASS",
+    "code": 200,
+    "time": "3.49s",
+    "details": "Generated 0 shapes, Canvas: [256, 256]"
+  },
+  {
+    "test": "4.9 Shape Count: 200",
+    "status": "\u2705 PASS",
+    "code": 200,
+    "time": "6.26s",
+    "details": "Generated 0 shapes, Canvas: [256, 256]"
+  },
+  {
+    "test": "4.10 Background Color: #FFFFFF",
+    "status": "\u2705 PASS",
+    "code": 200,
+    "time": "4.69s",
+    "details": "Generated 30 shapes, Canvas: [256, 256]"
+  },
+  {
+    "test": "4.11 Background Color: #000000",
+    "status": "\u2705 PASS",
+    "code": 200,
+    "time": "4.88s",
+    "details": "Generated 30 shapes, Canvas: [256, 256]"
+  },
+  {
+    "test": "4.12 Background Color: #FF0000",
+    "status": "\u2705 PASS",
+    "code": 200,
+    "time": "4.39s",
+    "details": "Generated 30 shapes, Canvas: [256, 256]"
+  },
+  {
+    "test": "4.13 Background Color: #00FF00",
+    "status": "\u2705 PASS",
+    "code": 200,
+    "time": "4.43s",
+    "details": "Generated 30 shapes, Canvas: [256, 256]"
+  },
+  {
+    "test": "4.14 Background Color: #0000FF",
+    "status": "\u2705 PASS",
+    "code": 200,
+    "time": "4.11s",
+    "details": "Generated 30 shapes, Canvas: [256, 256]"
+  },
+  {
+    "test": "5.1 Resize to 128x128",
+    "status": "\u2705 PASS",
+    "code": 200,
+    "time": "2.42s",
+    "details": "Generated 30 shapes, Canvas: [128, 128]"
+  },
+  {
+    "test": "5.2 Resize to 200x200",
+    "status": "\u2705 PASS",
+    "code": 200,
+    "time": "2.54s",
+    "details": "Generated 30 shapes, Canvas: [200, 200]"
+  },
+  {
+    "test": "5.3 Resize to 300x300",
+    "status": "\u2705 PASS",
+    "code": 200,
+    "time": "2.57s",
+    "details": "Generated 30 shapes, Canvas: [300, 300]"
+  },
+  {
+    "test": "5.4 Resize to 100x200",
+    "status": "\u2705 PASS",
+    "code": 200,
+    "time": "1.93s",
+    "details": "Generated 30 shapes, Canvas: [100, 200]"
+  },
+  {
+    "test": "6.1 Image Size: Small (64x64)",
+    "status": "\u2705 PASS",
+    "code": 200,
+    "time": "1.27s",
+    "details": "Generated 50 shapes, Canvas: [64, 64]"
+  },
+  {
+    "test": "6.2 Image Size: Small-Medium (128x128)",
+    "status": "\u2705 PASS",
+    "code": 200,
+    "time": "1.47s",
+    "details": "Generated 50 shapes, Canvas: [128, 128]"
+  },
+  {
+    "test": "6.3 Image Size: Medium (256x256)",
+    "status": "\u2705 PASS",
+    "code": 200,
+    "time": "1.67s",
+    "details": "Generated 50 shapes, Canvas: [256, 256]"
+  },
+  {
+    "test": "6.4 Image Size: Large (512x512)",
+    "status": "\u2705 PASS",
+    "code": 200,
+    "time": "1.64s",
+    "details": "Generated 50 shapes, Canvas: [512, 512]"
+  },
+  {
+    "test": "6.5 Image Size: XLarge (800x600)",
+    "status": "\u2705 PASS",
+    "code": 200,
+    "time": "1.98s",
+    "details": "Generated 50 shapes, Canvas: [800, 600]"
+  },
+  {
+    "test": "7.1 Complex: Rotated Rectangle + SVG + Custom Color",
+    "status": "\u2705 PASS",
+    "code": 200,
+    "time": "11.87s",
+    "details": "SVG size: 15043 bytes"
+  },
+  {
+    "test": "7.2 Complex: Bezier Curves + PNG + High Opacity",
+    "status": "\u2705 PASS",
+    "code": 200,
+    "time": "9.95s",
+    "details": "PNG size: 758 bytes"
+  },
+  {
+    "test": "7.3 Complex: Lines + JSON + Custom Size",
+    "status": "\u2705 PASS",
+    "code": 200,
+    "time": "3.22s",
+    "details": "Generated 60 shapes, Canvas: [180, 180]"
+  },
+  {
+    "test": "8.1 Invalid Output Format",
+    "status": "\u274c FAIL",
+    "code": 400,
+    "time": "0.00s",
+    "details": "{\"detail\":\"Invalid output_format. Must be one of: svg, png, json. Got: invalid\"}"
+  },
+  {
+    "test": "8.2 Invalid Opacity (300)",
+    "status": "\u274c FAIL",
+    "code": 400,
+    "time": "0.00s",
+    "details": "{\"detail\":\"opacity must be between 0 and 255. Got: 300\"}"
+  },
+  {
+    "test": "8.3 Invalid Shape Type",
+    "status": "\u274c FAIL",
+    "code": 400,
+    "time": "0.01s",
+    "details": "{\"detail\":\"Unknown shape type: invalid_shape. Supported types: ['combo', 'triangle', 'rectangle', 'ellipse', 'circle', 'rotated_rectangle', 'beziers', 'rotated_ellipse', 'polygon', 'line', 'quadratic_"
+  }
+]
