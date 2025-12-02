@@ -1,0 +1,1 @@
+{"detail":"Unknown shape type: circle,rectangle,triangle. Supported types: ['combo', 'triangle', 'rectangle', 'ellipse', 'circle', 'rotated_rectangle', 'beziers', 'rotated_ellipse', 'polygon', 'line', 'quadratic_bezier']"}
